@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (CppGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  win32_platform.cpp
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(51,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(52,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(53,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(54,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CppGame.vcxproj -> C:\Users\tugbe\Desktop\CppGame\x64\Release\PongKong.exe

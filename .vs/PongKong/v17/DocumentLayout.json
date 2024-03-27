@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tugbe\\Desktop\\CppGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\win32_platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|solutionrelative:CppGame\\win32_platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|solutionrelative:CppGame\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\platform_common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|solutionrelative:CppGame\\platform_common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|solutionrelative:CppGame\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4AE1E3E-59BE-4665-BF6D-D4920BFD9F0A}|CppGame\\CppGame.vcxproj|solutionrelative:CppGame\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "utils.cpp",
+              "DocumentMoniker": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\utils.cpp",
+              "RelativeDocumentMoniker": "CppGame\\utils.cpp",
+              "ToolTip": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\utils.cpp",
+              "RelativeToolTip": "CppGame\\utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T11:34:06.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\game.cpp",
+              "RelativeDocumentMoniker": "CppGame\\game.cpp",
+              "ToolTip": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\game.cpp",
+              "RelativeToolTip": "CppGame\\game.cpp",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T10:56:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\renderer.cpp",
+              "RelativeDocumentMoniker": "CppGame\\renderer.cpp",
+              "ToolTip": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\renderer.cpp",
+              "RelativeToolTip": "CppGame\\renderer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T12:01:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "platform_common.cpp",
+              "DocumentMoniker": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\platform_common.cpp",
+              "RelativeDocumentMoniker": "CppGame\\platform_common.cpp",
+              "ToolTip": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\platform_common.cpp",
+              "RelativeToolTip": "CppGame\\platform_common.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T11:34:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "win32_platform.cpp",
+              "DocumentMoniker": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\win32_platform.cpp",
+              "RelativeDocumentMoniker": "CppGame\\win32_platform.cpp",
+              "ToolTip": "C:\\Users\\tugbe\\Desktop\\CppGame\\CppGame\\win32_platform.cpp",
+              "RelativeToolTip": "CppGame\\win32_platform.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAADsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T09:26:53.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

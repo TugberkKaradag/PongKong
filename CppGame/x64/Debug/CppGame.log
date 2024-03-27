@@ -1,0 +1,18 @@
+﻿  win32_platform.cpp
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(51,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(52,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(53,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\renderer.cpp(54,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\tugbe\Desktop\CppGame\CppGame\win32_platform.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CppGame.vcxproj -> C:\Users\tugbe\Desktop\CppGame\x64\Debug\CppGame.exe
